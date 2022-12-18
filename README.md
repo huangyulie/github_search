@@ -1,24 +1,6 @@
 # vue_github
 
-## Project setup
-```
-npm install
-```
+### 这是一个练习vue中ajax请求的小案例
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+####  只是在vue中简单应用了axios发送git请求，可以拿到github中的用户头像昵称及其他信息。
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
